@@ -7,5 +7,15 @@ public class CreateCampaignTest {
 	@Test
 	public void campaign() {
 		System.out.println("campaign is created");
+		
+	}
+	@Test
+	public void creaCampWithMandatoryFields() {
+		
+		
+		
+		
+		
+		System.out.println("creaCampWithMandatoryFields is created");
 	}
 }
