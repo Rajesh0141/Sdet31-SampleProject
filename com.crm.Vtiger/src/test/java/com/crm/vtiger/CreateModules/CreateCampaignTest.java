@@ -13,8 +13,7 @@ public class CreateCampaignTest {
 	public void creaCampWithMandatoryFields() {
 		
 		
-		
-		
+		System.out.println("Rajesh is created");
 		
 		System.out.println("creaCampWithMandatoryFields is created");
 	}
