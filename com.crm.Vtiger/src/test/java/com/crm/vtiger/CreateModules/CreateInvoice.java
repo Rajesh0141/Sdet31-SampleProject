@@ -2,7 +2,7 @@ package com.crm.vtiger.CreateModules;
 
 import org.testng.annotations.Test;
 
-public class CreateInvoice {
+public class CreateInvoiceTest {
 	
 	@Test
 	public void invoice() {
